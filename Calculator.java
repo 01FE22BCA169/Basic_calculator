@@ -61,8 +61,8 @@ class Calculator extends extendedCalculator{
     
 public static void main(String[] args ) {
     Calculator cal=new Calculator();
-    float operant_1=10;
-    float operant_2=5;
+    float operant_1=15;
+    float operant_2=10;
 
     float add_result=cal.addition(operant_1,operant_2);
     System.out.println("add result is:" +add_result);
