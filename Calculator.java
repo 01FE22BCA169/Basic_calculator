@@ -32,7 +32,7 @@ class Calculator{
     }
 
 
-public static void name(String[] args ) {
+public static void main(String[] args ) {
     Calculator cal=new Calculator();
     float operant_1=10;
     float operant_2=5;
